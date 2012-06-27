@@ -11,10 +11,3 @@ Github Test
 2. Modified README
 3. Added new file 
 4. Added new project code
-
-
-소스 코드는 이렇게 아래에 적는 건가요?
-#include <Stdio.h>
-main() {
-  printf("Hello World\n");
-}
